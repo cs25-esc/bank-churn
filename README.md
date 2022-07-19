@@ -40,3 +40,7 @@ we did all the above process with 23 features and i decided to do feature elimin
 ## below are reults when RFE and SMOTE used (allowed to use 15 features)
 
 ![image](https://user-images.githubusercontent.com/68850280/179799196-c66c54b3-2dd2-4c64-82f3-a1a99c5799a8.png)
+
+## conclusion:
+
+it can be concluded that "when RFECV and SMOTE used (rfecv REDUCED TO 20 FEATURES)" method performs consistent and better compared to all.
